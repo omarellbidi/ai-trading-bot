@@ -199,4 +199,4 @@ python main.py test
 
 ## License
 
-MIT License - see LICENSE file for details
+BSD 2-Clause - see LICENSE file for details
